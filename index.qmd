@@ -1,6 +1,12 @@
 ---
-title: "Nicholas Varabioff"
+title: "Nicholas Varabioff's DSCI 521 Website"
 ---
+
+Please enjoy today's puzzle from [Lichess](https://lichess.org/)
+
+<iframe src="https://lichess.org/training/frame?theme=brown&bg=dark" style="width: 400px; aspect-ratio: 10/11;" allowtransparency="true" frameborder="0"></iframe>
+
+[Lichess Developer Docs](https://lichess.org/developers)
 
 This is a Quarto website.
 

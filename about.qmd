@@ -2,4 +2,14 @@
 title: "About"
 ---
 
-About this site
+Hello and welcome to my website!
+
+I'm excited to explore interesting applications of data science! I have experience working as a data engineer and I am currently in the Master of Data Science (MDS) program at UBC Vancouver. Feel free to connect with me!
+
+[GitHub](https://github.com/nvarabioff/)
+
+[Linkedin](https://www.linkedin.com/in/nvarabioff/)
+
+[Email](mailto:nvarabioff@gmail.com)
+
+[Strava](https://www.linkedin.com/in/nvarabioff/)

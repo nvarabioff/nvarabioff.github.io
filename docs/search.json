@@ -4,13 +4,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "Hello and welcome to my website!\nI’m excited to explore interesting applications of data science! I have experience working as a data engineer and I am currently in the Master of Data Science (MDS) program at UBC Vancouver. Feel free to connect with me!\nGitHub\nLinkedin\nEmail\nStrava"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Nicholas Varabioff",
+    "title": "Nicholas Varabioff’s DSCI 521 Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Please enjoy today’s puzzle from Lichess\n\n\nLichess Developer Docs\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
