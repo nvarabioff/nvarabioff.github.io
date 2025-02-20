@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Nicholas Varabioff"
-  favicon: favicon.png
+  favicon: img/favicon.png
   navbar:
     logo: img/favicon.png
     left:
