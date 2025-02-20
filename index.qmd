@@ -1,13 +1,9 @@
 ---
-title: "Nicholas Varabioff's DSCI 521 Website"
+title: "Nicholas Varabioff's Website"
 ---
 
-Please enjoy today's puzzle from [Lichess](https://lichess.org/)
+Hello and welcome to my website! I'm excited to explore interesting applications of data science. I have experience working as a data engineer and I am currently in the Master of Data Science (MDS) program at UBC Vancouver. Feel free to connect with me!
+
+Please enjoy today's puzzle from [Lichess](https://lichess.org/)!
 
 <iframe src="https://lichess.org/training/frame?theme=brown&bg=dark" style="width: 400px; aspect-ratio: 10/11;" allowtransparency="true" frameborder="0"></iframe>
-
-[Lichess Developer Docs](https://lichess.org/developers)
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
