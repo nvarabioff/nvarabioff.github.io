@@ -18,6 +18,6 @@ quarto render
 
 ## Resources
 
-Quarto website docs: <https://quarto.org/docs/websites/>
-Bootstrap icons: <https://icons.getbootstrap.com/>
-Lichess developer docs: <https://lichess.org/developers>
+- Quarto website docs: <https://quarto.org/docs/websites/>
+- Bootstrap icons: <https://icons.getbootstrap.com/>
+- Lichess developer docs: <https://lichess.org/developers>
