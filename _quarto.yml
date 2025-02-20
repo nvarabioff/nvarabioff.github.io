@@ -4,17 +4,33 @@ project:
 
 website:
   title: "Nicholas Varabioff"
+  favicon: favicon.png
   navbar:
+    logo: img/favicon.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: src/about.qmd
+        text: About
+    tools:
+      - icon: file-earmark-person
+        href: https://drive.google.com/file/d/1TguivckW-bYxp2rUKZVGcCc8Z76KA_PW/view?usp=sharing
+      - icon: github
+        href: https://github.com/nvarabioff/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/nvarabioff/
+      - icon: envelope-at
+        href: mailto:nvarabioff@gmail.com
+      - icon: strava
+        href: https://www.strava.com/athletes/11038877
+  page-footer:
+    center:
+      - text: "This is a Quarto website. To learn more about Quarto websites visit https://quarto.org/docs/websites."
 
 format:
   html:
-    theme: yeti
+    theme:
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
-
-
-
