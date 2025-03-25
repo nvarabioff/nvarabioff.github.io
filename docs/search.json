@@ -9,9 +9,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Nicholas Varabioff’s Website",
+    "title": "About Me",
     "section": "",
-    "text": "Hello and welcome to my website! I’m excited to explore interesting applications of data science. I have experience working as a data engineer and I am currently in the Master of Data Science (MDS) program at UBC Vancouver. Feel free to connect with me!\nPlease enjoy today’s puzzle from Lichess!"
+    "text": "Hello! I'm Nicholas, a Master’s student in Data Science with a strong background in data engineering, machine learning, statistics, and data visualization.\n    I'm actively exploring opportunities in data science and machine learning in sports to leverage AI for performance optimization and strategic insights.\n    Feel free to connect with me! I'm excited to explore interesting applications of data science.\n\n    \n      Resume\n      GitHub\n      LinkedIn\n    \n  \n\n\n\n    Chess\n    I'm also a competitive online chess player! I was part of the University of Waterloo's chess team and competed in the Collegiate Chess League 2022, finishing top 8 in division 2.\n    I made this dashboard with Shiny (R) to visualize my games and rating on Lichess from 2018-2023.\n    \n    If you're confident, test your skills with Lichess daily puzzle!"
   },
   {
     "objectID": "src/404.html",
