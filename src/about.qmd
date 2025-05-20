@@ -1,0 +1,29 @@
+:::{.row}
+:::{.column width=40%}
+![](../img/headshot.jpg)
+:::
+
+:::{.column width=5%}
+<!-- empty column to create gap -->
+:::
+
+:::{.column width=50%}
+Hello! I'm Nicholas, a Master’s student in Data Science with a strong background in data engineering, machine learning, statistics, and data visualization.
+
+I'm actively exploring opportunities in data science and machine learning in sports to leverage AI for performance optimization and strategic insights.
+
+Feel free to connect with me! I'm excited to explore interesting applications of data science and I'd love to hear from you.
+
+<p>
+  <a href="mailto:nvarabioff@gmail.com">
+    <img alt="nvarabioff@gmail.com" src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=mailbox.org&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nvarabioff/">
+    <img alt="https://www.linkedin.com/in/nvarabioff/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1TguivckW-bYxp2rUKZVGcCc8Z76KA_PW/view?usp=sharing">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-3b5998?style=for-the-badge&logo=googledocs&logoColor=white" />
+  </a>
+</p>
+:::
+:::

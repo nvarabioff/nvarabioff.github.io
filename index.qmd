@@ -1,54 +1,23 @@
+---
+title: "Nicholas Varabioff"
+---
+
 # About Me
 
-:::{.row}
-:::{.column width=40%}
-![](./img/headshot.jpg)
-:::
+{{< include src/about.qmd >}}
 
-::: {.column width="5%"}
-<!-- empty column to create gap -->
-:::
+# Education
 
-:::{.column width=50%}
-Hello! I'm Nicholas, a Master’s student in Data Science with a strong background in data engineering, machine learning, statistics, and data visualization.
+{{< include src/education.qmd >}} 
 
-I'm actively exploring opportunities in data science and machine learning in sports to leverage AI for performance optimization and strategic insights.
+# Experience
 
-Feel free to connect with me! I'm excited to explore interesting applications of data science and I'd love to hear from you.
+{{< include src/experience.qmd >}}
 
-[Email](mailto:nvarabioff@gmail.com) &nbsp;&nbsp;&nbsp;
-[LinkedIn](https://www.linkedin.com/in/nvarabioff/) &nbsp;&nbsp;&nbsp;
-[Resume](https://drive.google.com/file/d/1TguivckW-bYxp2rUKZVGcCc8Z76KA_PW/view?usp=sharing)
-:::
-:::
+# Projects
 
+{{< include src/projects.qmd >}}
 
 # Interests
 
-## Chess
-
-I'm also a competitive online chess player! I was part of the University of Waterloo's chess team and competed in the Collegiate Chess League 2022, finishing top 8 in division 2.
-
-I made [this dashboard](https://nvarabioff.shinyapps.io/chess-match-history/) with Shiny (R) to visualize my games and rating on Lichess from 2018-2023.
-![](./img/chess-db.gif)
-
-<!-- If you're feeling confident, test your skills with [Lichess](https://lichess.org/) daily puzzle!
-<iframe src="https://lichess.org/training/frame?theme=brown&bg=dark" style="width: 100px; aspect-ratio: 10/11;" allowtransparency="true" frameborder="0"></iframe> -->
-
-## Activities
-
-:::{.row}
-:::{.column width=50%}
-I enjoy staying active through a variety of outdoor activities, including running, cycling, and hiking. I’m also active on Strava, where I track my progress and connect with other athletes!
-
-I’m involved in the community as the treasurer of the UBC AMS triathlon club. I also volunteer at local events, such as the BMO Vancouver marathon when I've been unable to participate.
-:::
-
-::: {.column width="5%"}
-<!-- empty column to create gap -->
-:::
-
-::: {.column width="40%"}
-<iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/11038877/latest-rides/13f7c9ae5c9638d802e275882ceacaa0ee0d0084'></iframe>
-:::
-:::
+{{< include src/interests.qmd >}}

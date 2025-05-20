@@ -1,1 +1,12 @@
 /* css styles */
+
+.hover-box {
+    border: 2px solid #ccc;
+    padding: 1em;
+    border-radius: 8px;
+}
+
+.hover-box:hover {
+  background-color: rgb(37, 150, 190, 0.44);
+  transition: background-color 0.3s, border-color 0.3s;
+}

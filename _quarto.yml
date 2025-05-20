@@ -12,8 +12,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: src/story.qmd
-        text: Story
+      - href: src/experience.qmd
+        text: Work
     tools:
       - icon: file-earmark-person
         href: https://drive.google.com/file/d/1TguivckW-bYxp2rUKZVGcCc8Z76KA_PW/view?usp=sharing
@@ -36,5 +36,7 @@ format:
       dark: darkly
     css: styles.css
     toc: true
+    toc-depth: 2
     toc-location: left
     toc-title: "Contents"
+    smooth-scroll: true

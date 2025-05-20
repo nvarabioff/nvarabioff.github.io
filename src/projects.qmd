@@ -1,0 +1,55 @@
+::: {.cell .hover-box}
+:::{.row style="display: flex; justify-content: center; align-items: center;"}
+:::{.column width=10%}
+<img alt="Whitecaps Logo" src="../img/whitecaps-logo.png" style="max-width: 100%; height: auto;">
+:::
+
+:::{.column width=1%}
+<!-- empty column to create gap -->
+:::
+
+:::{.column width=80%}
+### UBC MDS Capstone Project: Solving Set Pieces
+[**Vancouver Whitecaps FC**](https://www.whitecapsfc.com/) \
+_May - June 2025_
+:::
+:::
+
+For the last 2 months of my 10-month Master of Data Science degree at UBC (currently in progress), I partnered with Vancouver's professional Major League Soccer (MLS) team, Vancouver Whitecaps FC. The project aims to optimize strategy, predict outcomes, and evaluate performance for the team's set-pieces.
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&)
+![Snowflake](https://img.shields.io/badge/Snowflake-00A1D9?style=for-the-badge&logo=snowflake&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+:::
+
+&nbsp;
+
+::: {.cell .hover-box}
+### [Chess Dashboard](https://github.com/nvarabioff/chess-dashboard)
+_March 2025_
+
+For an individual school project, I wanted to visualize the entire history of chess games I have played on the free online chess platform [lichess](https://lichess.org/). I created a dashboard using Shiny to visualize my games.
+
+![](../img/chess-db.gif)
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-276DC3?style=for-the-badge&logo=shiny&logoColor=white)
+:::
+
+&nbsp;
+
+::: {.cell .hover-box}
+### [Pokédash: Pokémon Dashboard](https://github.com/nvarabioff/pokemon-dashboard)
+_March 2025_
+
+Created a dashboard using Dash to visualize and analyze Pokémon statistics, as part of a school group project.
+
+![](../img/demo.gif)
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Dash](https://img.shields.io/badge/Plotly_Dash-F2F4F9?style=for-the-badge&logo=plotly&logoColor=black)
+:::
