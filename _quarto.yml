@@ -7,7 +7,10 @@ project:
 website:
   title: "Nicholas Varabioff"
   favicon: img/favicon.png
-  google-analytics: "G-B7HHGYRL0C"
+  google-analytics:
+    tracking-id: "G-B7HHGYRL0C"
+    storage: none
+    anonymize-ip: true
   navbar:
     # logo: img/favicon.png
     left:
