@@ -50,7 +50,7 @@ While at UBC, I also served as Treasurer for the UBC AMS Triathlon Club, oversee
 ![Shiny](https://img.shields.io/badge/Shiny-276DC3?style=for-the-badge&logo=shiny&logoColor=white)
 </div>
 
-<button class="btn btn-primary toggle-collapse" data-bs-toggle="collapse" data-bs-target="#ed1-content" aria-expanded="false"></button>
+<button class="btn btn-primary toggle-collapse" data-bs-toggle="collapse" data-bs-target="#ed1-content"></button>
 :::
 
 &nbsp;
