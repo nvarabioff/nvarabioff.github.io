@@ -15,6 +15,7 @@ _August 2024 - June 2025_
 :::
 :::
 
+<div id="ed1-content" class="collapse">
 UBC MDS is a 10-month accelerated data science masters program designed to teach practical data science skills with real-world applications. I learned many practical and useful tools in Machine Learning, Statistics, Databases, Cloud Computing, and Data Visualization.
 
 My 10-month degree culminated in a 2-month long capstone project (currently in progress) with Vancouver's professional Major League Soccer (MLS) team, Vancouver Whitecaps FC. The project aims to optimize strategy, predict outcomes, and evaluate performance for the team's set-pieces.
@@ -47,6 +48,9 @@ While at UBC, I also served as Treasurer for the UBC AMS Triathlon Club, oversee
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Dash](https://img.shields.io/badge/Plotly_Dash-F2F4F9?style=for-the-badge&logo=plotly&logoColor=black)
 ![Shiny](https://img.shields.io/badge/Shiny-276DC3?style=for-the-badge&logo=shiny&logoColor=white)
+</div>
+
+<button class="btn btn-primary toggle-collapse" data-bs-toggle="collapse" data-bs-target="#ed1-content"></button>
 :::
 
 &nbsp;
@@ -68,6 +72,7 @@ _September 2017 - April 2022_
 :::
 :::
 
+<div id="ed2-content" class="collapse">
 I completed a Bachelor of Applied Science (BASc) in Systems Design Engineering at the University of Waterloo. I completed my degree With Distinction, completed a Computing Option and Management Sciences Option, and achieved Term Dean's Honours List twice. During my 5-year degree, I also completed six 4-month long co-op work experience terms.
 
 While at the University of Waterloo, I represented the school in the Collegiate Chess League (CCL) on the "B" team, placing top 8 in division 2.
@@ -76,4 +81,7 @@ While at the University of Waterloo, I represented the school in the Collegiate 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+</div>
+
+<button class="btn btn-primary toggle-collapse" data-bs-toggle="collapse" data-bs-target="#ed2-content"></button>
 :::

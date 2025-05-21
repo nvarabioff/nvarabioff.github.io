@@ -6,7 +6,20 @@
     border-radius: 8px;
 }
 
-.hover-box:hover {
-  background-color: rgb(37, 150, 190, 0.44);
-  transition: background-color 0.3s, border-color 0.3s;
+/* Base button behavior with dynamic label */
+.toggle-collapse::after {
+  content: "More Info";
+}
+.toggle-collapse[aria-expanded="true"]::after {
+  content: "Collapse";
+}
+
+/* Hover effects (shared) */
+.toggle-collapse {
+  transition: all 0.2s ease;
+}
+.toggle-collapse:hover {
+  background-color: var(--bs-body-color);
+  color: var(--bs-body-bg);
+  box-shadow: 0 0 0.5rem var(--bs-body-bg);
 }

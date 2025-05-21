@@ -1,6 +1,6 @@
 :::{.row}
 :::{.column width=40%}
-![](../img/headshot.jpg)
+<img src="../img/headshot.jpg" style="border-radius: 1rem; width: 100%;"/>
 :::
 
 :::{.column width=5%}

@@ -2,6 +2,7 @@
 ### Data Engineer - [_Vivid Seats_](https://corporate.vividseats.com/)
 _May 2022 - August 2024_
 
+<div id="ex1-content" class="collapse">
 > _Vivid Seats is a ticket marketplace hosting over 1,000,000 events with 140M+ tickets sold._
 
 At Vivid Seats, my role as a Data Engineer included operational responsibilities such as:
@@ -26,6 +27,9 @@ At Vivid Seats, my role as a Data Engineer included operational responsibilities
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+</div>
+
+<button class="btn btn-primary toggle-collapse" data-bs-toggle="collapse" data-bs-target="#ex1-content"></button>
 :::
 
 &nbsp;
@@ -34,12 +38,16 @@ At Vivid Seats, my role as a Data Engineer included operational responsibilities
 ### Software Developer (Co-op) - [_HockeyShot_](https://hockeyshot.ca/)
 _May - August 2021_
 
+<div id="ex2-content" class="collapse">
 > _HockeyShot creates hockey training tools such as synthetic ice and electronic shooting aids._
 
 As a Software Developer co-op student at HockeyShot, I designed the schema and implemented models on Hive and Firestore databases for a smart shooting tarp application. I also contributed to embedded code in the smart shooting tarp.
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&)
+</div>
+
+<button class="btn btn-primary toggle-collapse" data-bs-toggle="collapse" data-bs-target="#ex2-content"></button>
 :::
 
 &nbsp;
@@ -48,6 +56,7 @@ As a Software Developer co-op student at HockeyShot, I designed the schema and i
 ### Software Developer (Co-op) - [_emtelligent_](https://emtelligent.com/)
 _January - December 2020_
 
+<div id="ex3-content" class="collapse">
 > _emtelligent is a Natural Language Processing company that turns unstructured medical text into structured, actionable data for healthcare organizations._
 
 As a Software Developer co-op student at emtelligent, I built ETL tools in Python and SQL to automate downloading and cleaning of medical ontology data. The data was loaded into MySQL databases and integrated with emtelligent’s natural language processing engine.
@@ -57,4 +66,7 @@ As a Software Developer co-op student at emtelligent, I built ETL tools in Pytho
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+</div>
+
+<button class="btn btn-primary toggle-collapse" data-bs-toggle="collapse" data-bs-target="#ex3-content"></button>
 :::
