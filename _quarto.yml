@@ -8,7 +8,7 @@ website:
   title: "Nicholas Varabioff"
   favicon: img/favicon.png
   google-analytics:
-    tracking-id: UA-147972937-1
+    tracking-id: "UA-147972937"
   navbar:
     # logo: img/favicon.png
     left:
