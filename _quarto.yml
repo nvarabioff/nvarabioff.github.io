@@ -9,7 +9,7 @@ website:
   favicon: img/favicon.png
   google-analytics:
     tracking-id: "G-B7HHGYRL0C"
-    storage: none
+    anonymize-ip: true
   navbar:
     # logo: img/favicon.png
     left:
