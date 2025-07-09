@@ -11,12 +11,14 @@
 :::{.column width=80%}
 ### [Master of Data Science](https://masterdatascience.ubc.ca/)
 **University of British Columbia** \
-_August 2024 - June 2025_
+_September 2024 - June 2025_
 :::
 :::
 
 <div id="ed1-content" class="collapse">
-UBC MDS is a 10-month accelerated data science masters program designed to teach practical data science skills with real-world applications. Throughout the program, I gained hands-on experience in machine learning, statistics, databases, cloud computing, and data visualization.
+> _UBC Master of Data Science (MDS) is a 10-month accelerated data science masters program designed to teach practical data science skills with real-world applications._
+
+Throughout the program, I gained hands-on experience in machine learning, statistics, databases, cloud computing, and data visualization.
 
 The program culminated in a two-month long capstone project with Vancouver's professional Major League Soccer (MLS) team, Vancouver Whitecaps FC. Our project explored how data can optimize strategy for attacking set pieces - specifically free kicks and corners - to deliver actionable insights and inform decision-making in game situations. We delivered statistical models to identify key success factors, a scalable machine learning pipeline accessible behind API endpoints, a comprehensive technical report outlining our methods and findings, and an interactive Streamlit dashboard designed for football analysts to explore data and generate predictions.
 
