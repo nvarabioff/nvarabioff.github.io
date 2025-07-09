@@ -1,4 +1,39 @@
 ::: {.cell .hover-box}
+:::{.row style="display: flex; justify-content: center; align-items: center;"}
+:::{.column width=10%}
+<img alt="Whitecaps Logo" src="../img/whitecaps-logo.png" style="max-width: 100%; height: auto;">
+:::
+
+:::{.column width=1%}
+<!-- empty column to create gap -->
+:::
+
+:::{.column width=80%}
+### UBC MDS Capstone Project - Solving Set Pieces
+[**Vancouver Whitecaps FC**](https://www.whitecapsfc.com/) \
+_May - June 2025_
+:::
+:::
+
+<div id="proj1-content" class="collapse">
+For my capstone project in the last two months of my Master of Data Science degree at UBC, I partnered with Vancouver's professional Major League Soccer (MLS) team, Vancouver Whitecaps FC. Our project explored how data can optimize strategy for attacking set pieces - specifically free kicks and corners - to deliver actionable insights and inform decision-making in game situations.
+
+We delivered statistical models to identify key success factors, a scalable machine learning pipeline accessible behind API endpoints, a comprehensive technical report outlining our methods and findings, and an interactive Streamlit dashboard designed for football analysts to explore data and generate predictions.
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&)
+![Snowflake](https://img.shields.io/badge/Snowflake-00A1D9?style=for-the-badge&logo=snowflake&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+</div>
+
+<button class="btn btn-primary toggle-collapse" data-bs-toggle="collapse" data-bs-target="#proj1-content"></button>
+:::
+
+&nbsp;
+
+::: {.cell .hover-box}
 ### [Chess Dashboard](https://github.com/nvarabioff/chess-dashboard)
 _March 2025_
 
@@ -31,4 +66,38 @@ Created a dashboard using Dash to visualize and analyze Pokémon statistics, as 
 </div>
 
 <button class="btn btn-primary toggle-collapse" data-bs-toggle="collapse" data-bs-target="#proj3-content"></button>
+:::
+
+&nbsp;
+
+::: {.cell .hover-box}
+### Briighter - Electricity Emissions Map
+_September 2021 - April 2022_
+
+<div id="proj4-content" class="collapse">
+For my final year design project at the University of Waterloo, I collaborated with my student team to build a full-stack environmental impact platform to help Canadians reduce electricity-related CO2 emissions.
+
+Our project consisted of a scalable recommendation engine built with Google Cloud Functions, integrating live electricity data and emissions factors stored in Firebase, and a frontend built in React/Next.js.
+
+Grid Composition
+-
+![](../img/briighter-1.png)
+
+Recommendations
+-
+![](../img/briighter-2.png)
+
+Explore Graphs
+-
+![](../img/briighter-3.png)
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloud Functions](https://img.shields.io/badge/Google_Cloud_Functions-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+</div>
+
+<button class="btn btn-primary toggle-collapse" data-bs-toggle="collapse" data-bs-target="#proj4-content"></button>
 :::

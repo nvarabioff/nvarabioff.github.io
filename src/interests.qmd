@@ -1,12 +1,15 @@
-### Chess
+### > Chess &nbsp; <button class="btn btn-primary toggle-collapse" data-bs-toggle="collapse" data-bs-target="#in1-content"></button>
 
-I started playing chess online during the first year of my Bachelor's degree at the University of Waterloo. I found it fascinating that such a simple game could have so many possibilities, and it was the perfect mix of problem solving, quick thinking, and competitiveness that I love. I've been playing online since then, as well as part of the University of Waterloo's chess team that competed in the Collegiate Chess League 2022, finishing top 8 in division 2. I have also made [this dashboard](https://nvarabioff.shinyapps.io/chess-match-history/) with Shiny (R) to visualize my games and rating on Lichess from 2018-2023.
+<div id="in1-content" class="collapse">
+I started playing chess online during the first year of my Bachelor's degree at the University of Waterloo. I found it fascinating that such a simple game could have so many possibilities, and it was the perfect mix of problem solving, quick thinking, and competitiveness that I love. I've been playing online since then, as well as part of the University of Waterloo's chess team that competed in the Collegiate Chess League 2022, finishing top 8 in division 2. I have also made [this dashboard](https://nvarabioff.shinyapps.io/chess-match-history/) to visualize my games and rating on Lichess from 2018-2023.
 
 <!-- If you're feeling confident, test your skills with [Lichess](https://lichess.org/) daily puzzle!
 <iframe src="https://lichess.org/training/frame?theme=brown&bg=dark" style="width: 100px; aspect-ratio: 10/11;" allowtransparency="true" frameborder="0"></iframe> -->
+</div>
 
-### Activities
+### > Activities &nbsp; <button class="btn btn-primary toggle-collapse" data-bs-toggle="collapse" data-bs-target="#in2-content"></button>
 
+<div id="in2-content" class="collapse">
 :::{.row}
 :::{.column width=50%}
 I enjoy staying active through a variety of outdoor activities, including running, cycling, and hiking. I’m also active on Strava, where I track my progress and connect with other athletes!
@@ -22,3 +25,4 @@ I’m involved in the community as the treasurer of the UBC AMS Triathlon Club, 
 <iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/11038877/latest-rides/13f7c9ae5c9638d802e275882ceacaa0ee0d0084'></iframe>
 :::
 :::
+</div>
