@@ -10,7 +10,7 @@
 :::{.column width=50%}
 Hello! I'm Nicholas - a data engineer with a Master's of Data Science and a strong background in machine learning, statistics, and data visualization. My technical experience includes designing cloud-based data architectures, building efficient ETL workflows, working with relational databases and SQL, and developing machine learning models. Outside of work, I’m an active member of the sports community as a runner, triathlete, and hockey fan.
 
-I'm actively exploring opportunities in data engineering and machine learning. Feel free to reach out — I’d love to connect with others working in this space!
+<!-- I'm actively exploring opportunities in data engineering and machine learning. Feel free to reach out — I’d love to connect with others working in this space! -->
 
 <p>
   <a href="mailto:nvarabioff@gmail.com">
