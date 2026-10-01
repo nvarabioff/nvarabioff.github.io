@@ -1,6 +1,49 @@
 ::: {.cell .hover-box}
 :::{.row style="display: flex; justify-content: center; align-items: center;"}
 :::{.column width=10%}
+<img alt="Whitecaps Logo" src="../img/whitecaps-logo.png" style="max-width: 100%; height: auto;">
+:::
+
+:::{.column width=1%}
+<!-- empty column to create gap -->
+:::
+
+:::{.column width=80%}
+### Data Analyst
+[**Vancouver Whitecaps FC**](https://www.whitecapsfc.com/) \
+_November 2025 - Present_
+:::
+:::
+
+<div id="whitecaps-content" class="collapse">
+> _Vancouver Whitecaps Football Club is a Canadian professional soccer club based in Vancouver, competing in Major League Soccer (MLS)._
+
+At Vancouver Whitecaps FC, I work as a Performance Data Scientist supporting strategy, scouting, player development, and data engineering architecture. My responsibilities include:
+
+- Designing and implementing full stack soccer analytics solutions.
+- Engineering robust data pipelines to collect, clean, and transform soccer data from multiple sources into Snowflake data warehouse.
+- Translating data-driven insights into actionable recommendations for technical staff.
+- Developing reporting tools for academy coaches to create individual development plans, session plans, and player evaluations.
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-00A1D9?style=for-the-badge&logo=snowflake&logoColor=white)
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+</div>
+
+<button class="btn btn-primary toggle-collapse" data-bs-toggle="collapse" data-bs-target="#whitecaps-content"></button>
+:::
+
+&nbsp;
+
+::: {.cell .hover-box}
+:::{.row style="display: flex; justify-content: center; align-items: center;"}
+:::{.column width=10%}
 <img alt="Vivid Seats Logo" src="../img/VS-logo.jpg" style="max-width: 100%; height: auto;">
 :::
 

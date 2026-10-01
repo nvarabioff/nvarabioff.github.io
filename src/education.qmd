@@ -75,6 +75,8 @@ _September 2017 - April 2022_
 :::
 
 <div id="ed2-content" class="collapse">
+> _Systems Design Engineering (SYDE) program at the University of Waterloo is a globally unique, interdisciplinary undergraduate engineering program that blends electrical, mechanical, and software engineering with social sciences, human factors, and systems thinking._
+
 I completed a Bachelor of Applied Science (BASc) in Systems Design Engineering at the University of Waterloo. I completed my degree With Distinction, completed a Computing Option and Management Sciences Option, and achieved Term Dean's Honours List twice. During my 5-year degree, I also completed six 4-month long co-op work experience terms.
 
 While at the University of Waterloo, I represented the school in the Collegiate Chess League (CCL) on the "B" team, placing top 8 in division 2.

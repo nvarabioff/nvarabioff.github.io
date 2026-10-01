@@ -18,6 +18,6 @@ title: "Nicholas Varabioff"
 
 {{< include src/projects.qmd >}}
 
-# Interests
+<!-- # Interests
 
-{{< include src/interests.qmd >}}
+{{< include src/interests.qmd >}} -->
